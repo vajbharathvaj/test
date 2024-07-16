@@ -5,3 +5,4 @@ Y='master branch'
 t='master branch original master branch'
 anothe='new main'
 new="from the new branch"
+new2="from local"
